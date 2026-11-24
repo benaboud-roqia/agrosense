@@ -13,8 +13,11 @@
     body.classList.add("frame-off");
     body.innerHTML = `<div class="frame-off-in">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H4z"/><path d="M8 20h8M12 16v4"/><path d="M8 12l2.5-3 2 2 3.5-4"/></svg>
-        <b>Le tableau de bord tourne sur le PC de la parcelle</b>
-        <p>Il reçoit les mesures du boîtier en direct. Ouvrez-le depuis le PC où le serveur AgroSense est lancé.</p>
+        ${/^https?:/.test(CFG.app)
+          ? `<b>Le tableau de bord est en ligne</b>
+        <p>Connectez-vous pour suivre l'humidité du sol, l'arrosage et la santé de vos cultures, depuis n'importe où.</p>`
+          : `<b>Le tableau de bord tourne sur le PC de la parcelle</b>
+        <p>Il reçoit les mesures du boîtier en direct. Ouvrez-le depuis le PC où le serveur AgroSense est lancé.</p>`}
         <a class="btn btn-dark" href="${CFG.app}">Ouvrir le tableau de bord</a>
       </div>`;
     const bar = document.querySelector(".frame-bar span");

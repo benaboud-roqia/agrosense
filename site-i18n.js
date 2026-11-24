@@ -7,6 +7,8 @@
     "AgroSense, accueil": "أغروسنس، الصفحة الرئيسية",
     "Vidéo": "الفيديو", "Le constat": "الواقع", "Fonctionnement": "طريقة العمل", "Fonctions": "الوظائف",
     "Le boîtier": "الجهاز", "Questions": "أسئلة", "Ouvrir le tableau de bord": "فتح لوحة التحكم", "Voir la vidéo": "شاهد الفيديو", "Menu": "القائمة",
+    "Le tableau de bord est en ligne": "لوحة التحكم متاحة على الإنترنت",
+    "Connectez-vous pour suivre l'humidité du sol, l'arrosage et la santé de vos cultures, depuis n'importe où.": "سجّل الدخول لمتابعة رطوبة التربة والسقي وصحة زراعاتك من أي مكان.",
     "Startup algérienne 🇩🇿 · Irrigation intelligente IoT et IA": "شركة ناشئة جزائرية 🇩🇿 · سقي ذكي بإنترنت الأشياء والذكاء الاصطناعي",
     "Arroser quand": "اسقِ عندما", "le sol": "تطلب", "le demande": "التربة", "pas à heure fixe.": "لا في ساعة ثابتة.", ",": "،",
     "Un boîtier planté dans la parcelle mesure l'humidité, le sol et l'air. Le système décide seul d'ouvrir l'eau, attend la pluie quand elle est annoncée, repère les conditions des maladies avant les premières taches, et répond aux questions de l'agriculteur en arabe, en darija ou en français.":
