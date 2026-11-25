@@ -10,6 +10,10 @@
     "Le tableau de bord est en ligne": "لوحة التحكم متاحة على الإنترنت",
     "Connectez-vous pour suivre l'humidité du sol, l'arrosage et la santé de vos cultures, depuis n'importe où.": "سجّل الدخول لمتابعة رطوبة التربة والسقي وصحة زراعاتك من أي مكان.",
     "Startup algérienne 🇩🇿 · Irrigation intelligente IoT et IA": "شركة ناشئة جزائرية 🇩🇿 · سقي ذكي بإنترنت الأشياء والذكاء الاصطناعي",
+    "AgroSense · Startup agritech algérienne": "أغروسنس · شركة ناشئة جزائرية للفلاحة الذكية",
+    "Smart Agriculture": "الزراعة الذكية", "for a Sustainable": "من أجل مستقبل", "Future.": "مستدام.",
+    "Une plateforme agricole pour tous les agriculteurs et toutes les cultures. Un boîtier dans la parcelle mesure le sol et l'air, les cultures sont suivies en direct, les maladies sont repérées avant les premières taches, l'eau est utilisée au bon moment, et un conseiller répond à chacun en arabe, en darija ou en français.":
+      "منصة فلاحية لكل الفلاحين ولكل الزراعات. جهاز في الحقل يقيس التربة والهواء، وتُتابَع الزراعات مباشرة، وتُرصد الأمراض قبل ظهور أول البقع، ويُستعمل الماء في الوقت المناسب، ومستشار يجيب كل واحد بالعربية أو الدارجة أو الفرنسية.",
     "Arroser quand": "اسقِ عندما", "le sol": "تطلب", "le demande": "التربة", "pas à heure fixe.": "لا في ساعة ثابتة.", ",": "،",
     "Un boîtier planté dans la parcelle mesure l'humidité, le sol et l'air. Le système décide seul d'ouvrir l'eau, attend la pluie quand elle est annoncée, repère les conditions des maladies avant les premières taches, et répond aux questions de l'agriculteur en arabe, en darija ou en français.":
       "جهاز مغروس في الحقل يقيس الرطوبة والتربة والهواء. يقرر النظام وحده فتح الماء، وينتظر المطر عندما يكون متوقعا، ويرصد ظروف الأمراض قبل ظهور أول البقع، ويجيب على أسئلة الفلاح بالعربية أو الدارجة أو الفرنسية.",
