@@ -103,8 +103,7 @@
     "La parcelle de démonstration tourne en ce moment.": "الحقل التجريبي يعمل الآن.", "Découvrez AgroSense en vidéo.": "اكتشف أغروسنس بالفيديو.",
     // pied de page
     "L'irrigation qui écoute le sol.": "السقي الذي يصغي إلى التربة.",
-    "Startup algérienne de l'irrigation intelligente : capteurs, arrosage automatique, prévision des maladies et conseiller agricole en arabe, darija et français.":
-      "شركة ناشئة جزائرية للسقي الذكي: مستشعرات، سقي تلقائي، توقع الأمراض ومستشار فلاحي بالعربية والدارجة والفرنسية.",
+    "Startup agritech algérienne pour tous les agriculteurs : capteurs, suivi des cultures, prévision des maladies, eau au bon moment et conseiller agricole en arabe, darija et français.": "شركة ناشئة جزائرية للفلاحة الذكية لكل الفلاحين: حساسات، متابعة الزراعات، توقع الأمراض، الماء في الوقت المناسب، ومستشار فلاحي بالعربية والدارجة والفرنسية.",
     "Le produit": "المنتج", "Ressources": "موارد", "L'équipe": "الفريق", "Rester en contact": "ابقَ على تواصل",
     "Arrosage automatique": "السقي التلقائي", "Détection des maladies": "كشف الأمراض", "Conseiller agricole": "المستشار الفلاحي",
     "Le boîtier ESP32": "جهاز ESP32", "La vidéo": "الفيديو", "Questions fréquentes": "الأسئلة الشائعة", "Code source (GitHub)": "الشيفرة المصدرية (GitHub)",
